@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOByoOfKa99eJMBZBNOmfZ61WbkDwqRflpPSpwMkpigY0jQA8Ccu0EqYVzXye5e67bkqpORkjiVjn/xsHJsSEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melkamu\\source\\repos\\.net-student-registration-system\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melkamu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\melkamu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\melkamu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\melkamu\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.25\\microsoft.netcore.app.host.win-x86.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
